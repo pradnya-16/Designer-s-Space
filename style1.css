@@ -1,0 +1,38 @@
+*{
+	font-family: Montserrat
+}
+
+/* Navbar */
+
+.nav-link{
+	font-size: 20px;
+}
+
+/* Footer */
+
+footer{
+	padding: 20px;
+	text-align: center;
+}
+
+.footer-links{
+	padding-top: 25px;
+}
+
+.contact-content{
+	padding-top: 20px;
+}
+
+/* Footer Icons */
+
+.fa {
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-left-width: 100px;
+}
+
+#submit-button{
+	background-color: #e3f2fd;
+}

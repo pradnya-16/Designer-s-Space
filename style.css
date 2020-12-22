@@ -1,0 +1,101 @@
+*{
+	font-family: Montserrat
+}
+
+/* Navbar */
+
+.nav-link{
+	font-size: 20px;
+}
+
+.navbar-nav{
+	text-align: center;
+}
+
+/* Carousel */
+
+.carousel-caption{
+	text-align: right;
+	padding-bottom: 200px;
+}
+
+.carousel-description{
+	font-size: 20px;
+}
+
+/* About Section */
+
+#About{
+	margin-top: 18px;
+	text-align: center;
+}
+
+.about-columns{
+	padding: 20px;
+}
+
+.about-content{
+	margin-top: 30px;
+}
+
+/* Our Work */
+
+.img-container{
+	text-align: center;
+}
+
+#work-content{
+	padding-top: 35px;
+	text-align: center;
+}
+
+#button-section{
+	padding-top: 35px;
+}
+
+/* Footer */
+
+footer{
+	padding: 10px;
+	text-align: center;
+}
+
+.footer-links{
+	padding-top: 10px;
+}
+
+.contact-content{
+	padding-top: 10px;
+}
+
+/* Social Icons */
+
+.fa {
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-left-width: 100px;
+}
+
+/* Submission Form */
+form{
+	padding-left: 60px;
+	padding-right: 60px;
+	margin-top: 20px;
+}
+
+.heading{
+	margin-top: 40px;
+	text-align: center;
+}
+
+#button-new{
+	background-color: #e3f2fd; 
+	width: 35%; 
+	margin-left: 400px; 
+	margin-top: 20px;
+	text-align: center;
+}
+
+/*style="background-color: #e3f2fd; width: 35%; margin-left: 400px; margin-top: 20px*/
